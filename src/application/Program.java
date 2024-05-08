@@ -1,9 +1,9 @@
 package application;
 
-import javax.swing.UIClientPropertyKey;
+//import javax.swing.UIClientPropertyKey;
 
-import boardgame.Board;
-import boardgame.Position;
+//import boardgame.Board;
+//import boardgame.Position;
 import chess.ChessMatch;
 
 public class Program {
